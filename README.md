@@ -11,6 +11,7 @@
 </ul>
 
 <h3>Descrição: </h3>
-<p>Ao entrevistar a gerente Sônia Rodrigues, ela relatou que na Farmatec tinha problemas com o controle de estoque dos remédios e produtos cadastrados</p>
+<p>Ao entrevistar a gerente Sônia Rodrigues, ela relatou que na Farmatec tinha problemas com o controle de estoque dos remédios e produtos cadastrados.
+Por enquando a solução que estamos estudando para o problema relatado, é o desenvolvimento de um sistema de estoque integrado com o caixa, para saber o ganho total de cada mês.</p>
 
 <footer>rodapé<footer/>
