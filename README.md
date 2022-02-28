@@ -4,13 +4,6 @@
 
 <h3>Integrantes do grupo: </h3>
 
-<style>
-  li{
-  color:cyan;
- }
-
-</style>
-
 <ul>
   <li>Adriel Kasima - RA: 0030482111014 </li>
   <li>Isabelle Jelic - RA:</li>
