@@ -9,6 +9,6 @@
   <li>Isabelle Jelic - RA:</li>
   <li>Leila Almeida - RA:</li>
   <li>Sheila - RA:</li>
-  <li>Yasmin - RA:</li>
+  <li>Yasmin Rosa- RA:</li>
 </ul>
 <footer>rodapé<footer/>
