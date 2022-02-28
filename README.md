@@ -9,6 +9,6 @@
   <li>Isabelle Jelic - RA:</li>
   <li>Leila Almeida - RA: 0030482111023</li>
   <li>Sheila - RA:</li>
-  <li>Yasmin - RA: 0030482111018</li>
+  <li>Yasmin Rosa- RA: 0030482111018</li>
 </ul>
 <footer>rodapé<footer/>
