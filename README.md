@@ -1,6 +1,4 @@
 <h1>Projeto: Farmatec </h1>
-<h3>Descrição: </h3>
-<p>descrição</p>
 
 <h3>Integrantes do grupo: </h3>
 
@@ -11,4 +9,8 @@
   <li>Sheila - RA:</li>
   <li>Yasmin - RA: 0030482111018</li>
 </ul>
+
+<h3>Descrição: </h3>
+<p>descrição</p>
+
 <footer>rodapé<footer/>
