@@ -11,6 +11,6 @@
 </ul>
 
 <h3>Descrição: </h3>
-<p>descrição</p>
+<p>Ao entrevistarmos a gerente Sônia Rodrigues, ela relatou que na Farmatec tinha problemas com o controle de estoque dos remédios e produtos cadastrados</p>
 
 <footer>rodapé<footer/>
