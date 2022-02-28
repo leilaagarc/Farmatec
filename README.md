@@ -4,7 +4,7 @@
 
 <ul>
   <li><i>Adriel Kasima - RA: 0030482111014</i></li>
-  <li>Isabelle Jelic - RA:</li>
+  <li>Isabelle Jelic - RA: 0030482111019</li>
   <li>Leila Almeida - RA: 0030482111023</li>
   <li>Sheila - RA:</li>
   <li><i>Yasmin - RA: 0030482111018</i></li>
