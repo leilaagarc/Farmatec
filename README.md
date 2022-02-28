@@ -11,4 +11,4 @@
   <li>Sheila - RA:</li>
   <li>Yasmin - RA:</li>
 </ul>
-<footer>pé<footer/>
+<footer>rodapé<footer/>
