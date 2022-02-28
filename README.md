@@ -7,7 +7,7 @@
   <li>Isabelle Jelic - RA:</li>
   <li>Leila Almeida - RA: 0030482111023</li>
   <li>Sheila - RA:</li>
-  <li>Yasmin - RA: 0030482111018</li>
+  <li><i>Yasmin - RA: 0030482111018</i></li>
 </ul>
 
 <h3>Descrição: </h3>
