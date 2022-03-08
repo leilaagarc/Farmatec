@@ -22,4 +22,4 @@
 <li>Banco de Dados: Oracle, MySQL</li>
 <li>Infra do Projeto:AWS, Google</li>
 </ul>
-<footer>rodapé<footer/>
+
