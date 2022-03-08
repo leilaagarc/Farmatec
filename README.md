@@ -11,7 +11,12 @@
 </ul>
 
 <h3>Descrição: </h3>
-<p>Ao entrevistar a gerente Sônia Rodrigues, ela relatou que na Farmatec tinha problemas com o controle de estoque dos remédios e produtos cadastrados.
-Por enquando a solução que estamos estudando para o problema relatado, é o desenvolvimento de um sistema de estoque integrado com o caixa, para saber o ganho total de cada mês.</p>
+<p> A Farmatec foi fundada pelo principal motivo de facilitar as compras de medicamentos sem precisar sair de casa.
+ O cliente ao acessar o site, vai se deparar com a tela de ínicio com um menu, barra de pesquisa, carrinho de compras, enviar foto da receita para o farmacêutico.</p>
+
+<h1>BackEnd:</h1> Node.js
+<h1>FrontEnd:</h1> React, JS, HTML, CSS
+<h1>Banco de Dados:<h1> Oracle, MySQL
+ <h1>Infra do Projeto:</h1> AWS, Google
 
 <footer>rodapé<footer/>
