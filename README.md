@@ -23,3 +23,4 @@
 <li>Infra do Projeto: AWS, Google, Heroku</li>
 </ul>
 
+&#128512;
