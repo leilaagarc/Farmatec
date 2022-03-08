@@ -1,5 +1,5 @@
-<h1> Projeto: Farmatec </h1>
-1F48A   <1F489/>
+<h1>&#128137; Projeto: Farmatec &#x1F48A;</h1>
+
 <h3>Integrantes do grupo: </h3>
 
 <ul>
