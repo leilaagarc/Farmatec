@@ -14,9 +14,10 @@
 <p> A Farmatec foi fundada pelo principal motivo de facilitar as compras de medicamentos sem precisar sair de casa.
  O cliente ao acessar o site, vai encotrar a <b>tela de ínicio</b>, com um menu, <b>páginas de produtos</b>,<b> oferta do dia</b>, barra de pesquisa, <b>carrinho de compras</b>, <b>Lista de desejos</b>, <b>cadastro</b>, <b>Histórico de compras</b> e ele vai poder enviar foto da receita para o farmacêutico.</p>
 
-<h1>BackEnd:</h1> Node.js
-<h1>FrontEnd:</h1> React, JS, HTML, CSS
-<h1>Banco de Dados:<h1> Oracle, MySQL
- <h1>Infra do Projeto:</h1> AWS, Google
+<h1>Tecnologias</h1>
+<h2>BackEnd:</h2> Node.js
+<h2>FrontEnd:</h2> React, JS, HTML, CSS
+<h2>Banco de Dados:<h2> Oracle, MySQL
+ <h2>Infra do Projeto:</h2> AWS, Google
 
 <footer>rodapé<footer/>
