@@ -20,6 +20,6 @@
   <li>BackEnd: Node.js</li>
 <li>FrontEnd: React, JS, HTML, CSS</li>
 <li>Banco de Dados: Oracle, MySQL</li>
-<li>Infra do Projeto:AWS, Google</li>
+<li>Infra do Projeto: AWS, Google, Heroku</li>
 </ul>
 
