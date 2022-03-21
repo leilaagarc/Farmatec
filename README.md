@@ -23,4 +23,7 @@
 <li>Infra do Projeto: AWS, Google, Heroku</li>
 </ul>
 
+<h3>Diagrama casos de uso: </h3>
+https://lucid.app/lucidchart/49b63545-f76e-4572-b82e-d4f2a6d04983/edit?invitationId=inv_c34feb13-426f-4936-bc48-5e95ba32f0ce
+
 &#128512;
