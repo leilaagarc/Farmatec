@@ -19,8 +19,8 @@
 <ul>
   <li>BackEnd: Node.js</li>
 <li>FrontEnd: React, JS, HTML, CSS</li>
-<li>Banco de Dados: Oracle, MySQL</li>
-<li>Infra do Projeto: AWS, Google, Heroku</li>
+<li>Banco de Dados: Oracle</li>
+<li>Infra do Projeto: AWS</li>
 </ul>
 
 <h3>Diagrama casos de uso: </h3>
