@@ -27,6 +27,6 @@
 https://lucid.app/lucidchart/49b63545-f76e-4572-b82e-d4f2a6d04983/edit?invitationId=inv_c34feb13-426f-4936-bc48-5e95ba32f0ce
 
 <h3>Diagrama modelo conceitual: </h3>
-https://lucid.app/lucidchart/1ac5ad11-e372-4bfb-8a49-509bd94fe975/edit?viewport_loc=-11%2C-11%2C1579%2C868%2C0_0&invitationId=inv_b8aea432-1e7f-4ba2-ba1b-7f65ef3bf9ef
+https://lucid.app/lucidchart/7e3fc494-81ad-4c91-9674-d7b9301a2e26/edit?invitationId=inv_a1060a7e-e5a7-415e-bbcd-a72caac919ea&page=0_0#
 
 &#128512;
