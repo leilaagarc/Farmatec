@@ -29,4 +29,7 @@ https://lucid.app/lucidchart/49b63545-f76e-4572-b82e-d4f2a6d04983/edit?invitatio
 <h3>Diagrama modelo conceitual: </h3>
 https://lucid.app/lucidchart/7e3fc494-81ad-4c91-9674-d7b9301a2e26/edit?invitationId=inv_a1060a7e-e5a7-415e-bbcd-a72caac919ea&page=0_0#
 
+<h3>Protótipo inicial, feito no Figma:</h3>
+https://www.figma.com/file/WvdAKficsuW3rCdHDQBtPV/farmatec?node-id=0%3A1
+
 &#128512;
