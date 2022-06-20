@@ -24,13 +24,15 @@
 </ul>
 
 <h3>Diagrama casos de uso: </h3>
-<a href="https://lucid.app/lucidchart/49b63545-f76e-4572-b82e-d4f2a6d04983/edit?invitationId=inv_c34feb13-426f-4936-bc48-5e95ba32f0ce"> Casos de uso</a>
+<a target="_blank" href="https://lucid.app/lucidchart/49b63545-f76e-4572-b82e-d4f2a6d04983/edit?invitationId=inv_c34feb13-426f-4936-bc48-5e95ba32f0ce">Casos de uso</a>
 
 
 <h3>Diagrama modelo conceitual: </h3>
-https://lucid.app/lucidchart/7e3fc494-81ad-4c91-9674-d7b9301a2e26/edit?invitationId=inv_a1060a7e-e5a7-415e-bbcd-a72caac919ea&page=0_0#
+<a target="_blank" href="https://lucid.app/lucidchart/7e3fc494-81ad-4c91-9674-d7b9301a2e26/edit?invitationId=inv_a1060a7e-e5a7-415e-bbcd-a72caac919ea&page=0_0#">Modelo conceitual</a>
+
 
 <h3>Protótipo inicial, feito no Figma:</h3>
-https://www.figma.com/file/WvdAKficsuW3rCdHDQBtPV/farmatec?node-id=0%3A1
+<a target="_blank" href="https://www.figma.com/file/WvdAKficsuW3rCdHDQBtPV/farmatec?node-id=0%3A1">Protótipo Figma</a>
+
 
 &#128512;
